@@ -20,7 +20,7 @@
   "environments": {
     "test": {
       "scripts": {
-        "test": "python3 tests.py"
+        "test": "python3 webapp/tests.py"
       }
     }
   }
